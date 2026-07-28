@@ -80,10 +80,19 @@ fotos, ni al almacenamiento de tu teléfono.
   teléfono es indistinguible de una instalación nueva.
 - **Consultar o reclamar:** escríbenos a dipova.25@gmail.com
 
-Conforme a la Ley N° 19.628 sobre Protección de la Vida Privada (Chile), puedes
-solicitarnos información sobre el tratamiento de tus datos. Ten presente que, al
-ser anónimos, **no podemos localizar los registros de una persona específica**:
-no existe forma de vincularlos contigo.
+### Marco legal
+
+En Chile rige hoy la **Ley N° 19.628** sobre Protección de la Vida Privada, y a
+partir del **1 de diciembre de 2026** entra en vigencia la **Ley N° 21.719**, que
+la reemplaza y amplía los derechos de las personas (acceso, rectificación,
+cancelación, oposición y portabilidad). Cooldown se ajusta a ambas.
+
+Puedes solicitarnos información sobre el tratamiento de tus datos escribiendo al
+correo de contacto. Ten presente una limitación real: como las métricas son
+anónimas, **no podemos localizar los registros de una persona específica** — no
+existe forma de vincularlos contigo. Los datos que sí te pertenecen de manera
+identificable están todos en tu teléfono, bajo tu control directo, y los puedes
+borrar desde la app en cualquier momento sin pedirnos permiso.
 
 ## 8. Menores de edad
 
